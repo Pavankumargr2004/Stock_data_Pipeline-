@@ -59,8 +59,7 @@ stock-pipeline/
 │   └── setup_airflow_connections.py  # Connection setup
 ├── init-db/
 │   └── 01-init.sql            # Database initialization
-├── logs/                       # Airflow logs
-└── plugins/                    # Custom Airflow plugins
+                 # Custom Airflow plugins
 🔧 Configuration
 Environment Variables
 Edit the .env file to configure the pipeline:
